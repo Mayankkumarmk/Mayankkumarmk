@@ -1,15 +1,33 @@
-### Hi there 👋
+### Hi everyone!
 
-Mayankkumarmk/Mayankkumarmk is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies & Frameworks I have worked with:
+| C/C++ | Javascript | MongoDB | React | NodeJS | Express |
+| :---: | :--------: | :-----: | :---: | :----: | :-----: |
 
-Here are some ideas to get you started:
 
- ### - 🔭 I’m currently working on ...
- ### - 🌱 I’m currently learning ...
- ### - 👯 I’m looking to collaborate on ...
- ### - 🤔 I’m looking for help with ...
- ### - 💬 Ask me about ...
- ### - 📫 How to reach me: ...
- ### - 😄 Pronouns: ...
- ### - ⚡ Fun fact: ...
+### Connect with me here:  
+
+
+<a href="https://twitter.com/Mayank_MKD">
+  <img align="left" alt="Mayank's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/me-mayankkumar/">
+  <img align="left" alt="Mayank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Mayankkumarmk">
+  <img align="left" alt="Mayank's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
+<br/>
+<br/>
+
+
+
+- 💬 Happy to help anytime!
+- Active participant in Hackathons 
+- Open Source enthusiast
+
+## :rainbow: Have a good day!
+
 
